@@ -1,3 +1,8 @@
+import './index.css';
 export function App() {
-  return <h1>Hello world</h1>;
+  return (
+    <header>
+      <h1>TrashCaps</h1>
+    </header>
+  );
 }
