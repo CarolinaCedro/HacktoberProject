@@ -92,6 +92,7 @@ export function App() {
       </form>
 
       <footer>
+        <h1>Contact & Copyright</h1>
         <h5>Todos os direitos reservados a:</h5>
         <small>TrashCaps Ltda</small>
         <small>Phone +98 89898-6767</small>
