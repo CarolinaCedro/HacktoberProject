@@ -77,6 +77,20 @@ export function App() {
         </p>
       </section>
 
+      <form action="#">
+        <label htmlFor="">Name:</label>
+        <input type="text" name="" id="" />
+
+        <label htmlFor="">Adress:</label>
+        <input type="text" name="" id="" />
+
+        <label htmlFor="">City:</label>
+        <input type="text" name="" id="" />
+
+        <label htmlFor="">Country:</label>
+        <input type="text" name="" id="" />
+      </form>
+
       <footer>
         <h5>Todos os direitos reservados a:</h5>
         <small>TrashCaps Ltda</small>
