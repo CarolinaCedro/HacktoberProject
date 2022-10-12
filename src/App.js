@@ -89,6 +89,9 @@ export function App() {
 
         <label htmlFor="">Country:</label>
         <input type="text" name="" id="" />
+
+        <label for="details">Other details:</label>
+        <textarea id="details" name="details" rows="5" cols="33">Type here...</textarea>
       </form>
 
       <footer>
