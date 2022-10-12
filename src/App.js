@@ -76,6 +76,13 @@ export function App() {
           nunc. Cras pretium euismod tellus eu commodo.
         </p>
       </section>
+
+      <footer>
+        <h5>Todos os direitos reservados a:</h5>
+        <small>TrashCaps Ltda</small>
+        <small>Phone +98 89898-6767</small>
+        <small>City Mexico</small>
+      </footer>
     </header>
   );
 }
