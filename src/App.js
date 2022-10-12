@@ -3,6 +3,78 @@ export function App() {
   return (
     <header>
       <h1>TrashCaps</h1>
+
+      <section>
+        <h1>Seja bem viado !!</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nulla
+          augue, luctus eget elit quis, placerat condimentum sapien. Cras at
+          turpis pellentesque, commodo nunc at, consectetur leo. Pellentesque a
+          risus et purus aliquet mattis et id arcu. Integer tellus est, luctus
+          eget dolor eget, dapibus dignissim odio. Vivamus rutrum ligula sit
+          amet augue rutrum porttitor. Aliquam eu sagittis enim, vel feugiat
+          libero. Suspendisse imperdiet turpis at urna sodales commodo. Nunc
+          eget libero eu augue dictum eleifend sit amet non erat. Interdum et
+          malesuada fames ac ante ipsum primis in faucibus. Duis tempus ligula
+          ac odio euismod pellentesque. Nulla vestibulum pharetra ligula at
+          pharetra. Duis rhoncus tempor est, in varius nisi sagittis nec. Donec
+          malesuada non quam ac hendrerit. Vestibulum ut odio quam. Aliquam
+          magna enim, laoreet vitae dignissim eget, tincidunt vel diam. Sed eget
+          facilisis orci. Aenean mattis velit lacus, nec iaculis turpis
+          consequat id. Suspendisse ligula nisl, varius ac tincidunt malesuada,
+          laoreet eu tortor. Morbi eleifend metus vel lorem laoreet, sit amet
+          fringilla ante viverra. Suspendisse nulla nulla, vestibulum vel sem
+          sit amet, laoreet lacinia dolor. Cras fermentum tellus sodales orci
+          luctus dictum. Aliquam sed ligula dictum, feugiat enim ut, laoreet
+          nunc. Cras pretium euismod tellus eu commodo.
+        </p>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nulla
+          augue, luctus eget elit quis, placerat condimentum sapien. Cras at
+          turpis pellentesque, commodo nunc at, consectetur leo. Pellentesque a
+          risus et purus aliquet mattis et id arcu. Integer tellus est, luctus
+          eget dolor eget, dapibus dignissim odio. Vivamus rutrum ligula sit
+          amet augue rutrum porttitor. Aliquam eu sagittis enim, vel feugiat
+          libero. Suspendisse imperdiet turpis at urna sodales commodo. Nunc
+          eget libero eu augue dictum eleifend sit amet non erat. Interdum et
+          malesuada fames ac ante ipsum primis in faucibus. Duis tempus ligula
+          ac odio euismod pellentesque. Nulla vestibulum pharetra ligula at
+          pharetra. Duis rhoncus tempor est, in varius nisi sagittis nec. Donec
+          malesuada non quam ac hendrerit. Vestibulum ut odio quam. Aliquam
+          magna enim, laoreet vitae dignissim eget, tincidunt vel diam. Sed eget
+          facilisis orci. Aenean mattis velit lacus, nec iaculis turpis
+          consequat id. Suspendisse ligula nisl, varius ac tincidunt malesuada,
+          laoreet eu tortor. Morbi eleifend metus vel lorem laoreet, sit amet
+          fringilla ante viverra. Suspendisse nulla nulla, vestibulum vel sem
+          sit amet, laoreet lacinia dolor. Cras fermentum tellus sodales orci
+          luctus dictum. Aliquam sed ligula dictum, feugiat enim ut, laoreet
+          nunc. Cras pretium euismod tellus eu commodo.
+        </p>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nulla
+          augue, luctus eget elit quis, placerat condimentum sapien. Cras at
+          turpis pellentesque, commodo nunc at, consectetur leo. Pellentesque a
+          risus et purus aliquet mattis et id arcu. Integer tellus est, luctus
+          eget dolor eget, dapibus dignissim odio. Vivamus rutrum ligula sit
+          amet augue rutrum porttitor. Aliquam eu sagittis enim, vel feugiat
+          libero. Suspendisse imperdiet turpis at urna sodales commodo. Nunc
+          eget libero eu augue dictum eleifend sit amet non erat. Interdum et
+          malesuada fames ac ante ipsum primis in faucibus. Duis tempus ligula
+          ac odio euismod pellentesque. Nulla vestibulum pharetra ligula at
+          pharetra. Duis rhoncus tempor est, in varius nisi sagittis nec. Donec
+          malesuada non quam ac hendrerit. Vestibulum ut odio quam. Aliquam
+          magna enim, laoreet vitae dignissim eget, tincidunt vel diam. Sed eget
+          facilisis orci. Aenean mattis velit lacus, nec iaculis turpis
+          consequat id. Suspendisse ligula nisl, varius ac tincidunt malesuada,
+          laoreet eu tortor. Morbi eleifend metus vel lorem laoreet, sit amet
+          fringilla ante viverra. Suspendisse nulla nulla, vestibulum vel sem
+          sit amet, laoreet lacinia dolor. Cras fermentum tellus sodales orci
+          luctus dictum. Aliquam sed ligula dictum, feugiat enim ut, laoreet
+          nunc. Cras pretium euismod tellus eu commodo.
+        </p>
+      </section>
     </header>
   );
 }
