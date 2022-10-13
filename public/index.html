@@ -1,72 +1,43 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
 
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <link rel="stylesheet" href="assets/css/login.css">
-    <link rel="stylesheet" href="assets/css/message-modal.css">
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
 
-    <title>Login</title>
-</head>
-
-<body>
-    <section class="login-field transition-form success">
-        <div class="min-logo">
-            <svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.89 595.28"><defs><style>.cls-1{fill:#2a2f68;}</style></defs><title>Prancheta 1 cópia 4</title><path class="cls-1" d="M347.51,33.06c-38.08,0-76.16.09-114.24-.05a180.34,180.34,0,0,0-34.19,3c-52.3,9.88-90.41,39.37-115.38,85.65C69,148.92,62.81,178.86,62.55,209.64c-.49,59.12-.2,118.25-.07,177.38a186.8,186.8,0,0,0,1.62,25.35c6.42,46.09,27.22,84,64.91,112,28.69,21.3,61.37,33.75,96.61,34.43,76.88,1.48,153.81.39,230.72.6,6.11,0,7.55-1.93,7.51-7.71-.24-34.83-.29-69.65,0-104.47.06-6.64-1.75-8.44-8.4-8.4-49.6.28-99.2.41-148.8,0-26.5-.19-53,1.38-79.5-1.23-24.93-2.46-44.52-22.91-44.54-48q-.08-92.82,0-185.64a36.6,36.6,0,0,1,.66-8.18c6.38-28,24.66-42.47,53.53-42.47,74.66,0,149.31.15,224-.07C493,153.17,518,174,516.65,208.5c-1.25,31.5-21.91,53.06-53.59,53.06-73.16,0-146.31.09-219.46-.13-6.52,0-8.54,1.53-8.47,8.3.35,34.07.16,68.14.16,102.21,0,9.88,0,9.89,9.58,9.89q110.47,0,221,0c28.44,0,55.42-5.82,80.58-19.49,31.75-17.24,56-42,71.44-74.43,16.62-35,21.1-72.13,16-110.74-4.15-31.74-16.38-59.68-37-83.62-34.63-40.21-79.82-59-132.15-60.3C425.7,32.26,386.59,33.07,347.51,33.06Z"/><path class="cls-1" d="M718.9,559.55a82.87,82.87,0,1,1,83.1-83A82.92,82.92,0,0,1,718.9,559.55Z"/></svg>
-                <defs>
-                    <style type="text/css">
-                        .fill {
-                            fill: #363949;
-                            fill-rule: nonzero
-                        }
-                    </style>
-                </defs>
-                <g>
-                    <g>
-                        <polygon class="fill" points="31.69,2.04 31.69,14.57 33.74,14.57 33.74,0 19.17,0 19.17,2.04 "></polygon>
-                        <polygon class="fill" points="2.04,2.04 14.57,2.04 14.57,0 -0,0 -0,14.57 2.04,14.57 ">
-                        </polygon>
-                        <polygon class="fill" points="31.69,31.69 19.17,31.69 19.17,33.74 33.74,33.74 33.74,19.17 31.69,19.17 ">
-                        </polygon>
-                        <polygon class="fill" points="2.04,31.69 2.04,19.17 -0,19.17 -0,33.74 14.57,33.74 14.57,31.69 "></polygon>
-                        <polygon class="fill" points="18.68,9.61 15.91,9.61 15.91,23.45 18.68,23.45 "></polygon>
-                    </g>
-                </g>
-            </svg>
-        </div>
-
-        <form class="login-form" action="#" method="POST">
-            <label for="email">
-                <span>E-mail</span>
-                <input id="email" placeholder="E-mail:" type="email" value="" name="email">
-            </label>
-
-            <label for="password">
-                <span>Password</span>
-                <input id="password" placeholder="Senha:" type="password" value="" name="password">
-            </label>
-
-            <button type="submit">Login</button>
-        </form>
-
-        <a href="forgot-password.html">Forgot password?</a>
-
-     
-    </section>
-    <section class="screen success">
-        <div class="screen-text"></div>
-        <div class="screen-mascote"></div>
-    </section>
-
-    <script src="assets/js/message-modal.js"></script>
-
-    <script defer>
-        
-            </script>
-</body>
-
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
 </html>
