@@ -114,7 +114,7 @@ export function CollaboratorContent() {
             </small>
             <small>
               <p>
-                Linkedin :<a href="#">yotechGirl</a>
+                Linkedin :<a href="#">yotechGirll</a>
               </p>
             </small>
           </div>
