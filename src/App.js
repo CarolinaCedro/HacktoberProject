@@ -1,9 +1,15 @@
 import './index.css';
-import Content from './Content';
+import { Header } from './Header';
+import { Mastermind } from './Mastermind';
+import { CollaboratorsBar } from './CollaboratorsBar';
+import { CollaboratorContent } from './CollaboratorContent';
 export function App() {
-	return (
-		<div>
-			<Content />
-		</div>
-	);
+  return (
+    <div>
+      <Header />
+      <Mastermind />
+      <CollaboratorsBar />
+      <CollaboratorContent />
+    </div>
+  );
 }

@@ -4,14 +4,12 @@
   box-sizing: border-box;
 }
 
-header{
-  width: 100%;
-  height: 3rem;
-  background-color: blue;
-  color: rgb(0, 0, 0);
-  text-align: center;
+body{
+  font-family: 'Montserrat', sans-serif;
+  scroll-behavior: smooth;
 }
 
-body{
-  color: black;
+a{
+  text-decoration: none;
 }
+

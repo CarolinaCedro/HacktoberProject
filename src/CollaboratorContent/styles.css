@@ -1,0 +1,35 @@
+
+.collabBox{
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top:2rem;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap:wrap;
+
+}
+
+.collabContent{
+  width: 18rem;
+  height: 4.5rem;
+  background-color: #633BBC;
+  color: #e1e1e6;
+  border-radius: .7rem;
+  padding:0.5rem;
+  margin: 1rem;
+  display: flex;  
+}
+
+.iconFire{
+  width: 3.5rem;
+  height: 3;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.infoColab a{
+  color: #04d361;
+  font-weight: 600;
+}
