@@ -14,12 +14,16 @@ export function CollaboratorContent() {
             <h4>Nome: Carolina Cedro</h4>
             <small>
               <p>
-                Github: <a href="#">CarolinaCedro</a>
+                Github:{' '}
+                <a href="https://github.com/CarolinaCedro">CarolinaCedro</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="#">CarolinaCedro</a>
+                Linkedin :
+                <a href="https://www.linkedin.com/in/carol-cedro-37a361208/">
+                  CarolinaCedro
+                </a>
               </p>
             </small>
           </div>
@@ -52,7 +56,7 @@ export function CollaboratorContent() {
             <h4>Nome: PaxtonDevs</h4>
             <small>
               <p>
-                Github: <a href="#">PaxtonDevs</a>
+                Github: <a href="https://github.com/PaxtonDevs">PaxtonDevs</a>
               </p>
             </small>
             <small>
@@ -90,12 +94,13 @@ export function CollaboratorContent() {
             <h4>Nome: Nish-ahmd-it</h4>
             <small>
               <p>
-                Github: <a href="#">Nish-ahmd-it</a>
+                Github:{' '}
+                <a href="https://github.com/nish-ahmd-it">Nish-ahmd-it</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="#">Nish-ahmd-it</a>
+                Linkedin :<a href="https://github.com/vishneo">Nish-ahmd-it</a>
               </p>
             </small>
           </div>
