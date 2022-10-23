@@ -75,12 +75,12 @@ export function CollaboratorContent() {
             <h4>Nome: Vishneo</h4>
             <small>
               <p>
-                Github: <a href="#">CarolinaCedro</a>
+                Github: <a href="#">Vishneo</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="#">CarolinaCedro</a>
+                Linkedin :<a href="#">Vishneo</a>
               </p>
             </small>
           </div>
