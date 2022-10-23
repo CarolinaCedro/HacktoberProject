@@ -34,8 +34,15 @@ vez mais a comunidade open source.
 3. Abra o terminal, escolha uma pasta de sua preferência e faça um clone git clone cole o link que você copiou.
 4. Abra o projeto no seu editor de Preferência.
 5. Abra o terminal e crie uma branch com seu nome e o primeiro challenge.
-
-ex: git checkout -b lalisaChallenge01 6. Após ter certeza que está na branch correta ir no arquivo challenge 01 responder as perguntas. 7. Depois faça `git add .` 8. Realize o Commit `(git commit -m 'Desafio concluido')` 9. Realize o Push no Branch `(git push origin lalisaChallenge01 )` 10. Abra um Pull Request. 11. Crie uma nova branch para realizar os demais desafios challenge 02, challenge 03. seguindo todos passos anteriores para cada challeng. 12. No ultimo challenge 04 faça novamente uma branch e vá para pasta CollaboratorContente e dentro arquivo index copie o trecho de codigo que estará sinalizado
-alterando para as suas informações de identificação logo após dê o push e abra pull request. 13. Visite a pagina [HacktoberFest](https://hacktoberfest.com/) e acompanhe o andamento dos seus PRs aceitos. 14. Visite o site [HacktoberProject 2022](https://hacktoberproject.vercel.app/) verifique se o seu card de colaboração aparece no site. 15. Agora aguarde a organização do evento avaliar seus PR.
-
-Atenção: Peço por favor que não modifique a estrutura do projeto.
+   ex: git checkout -b lalisaChallenge01 6. Após ter certeza que está na branch correta ir no arquivo challenge 01 responder as perguntas.
+6. Depois faça `git add .` .
+7. Realize o Commit `(git commit -m 'Desafio concluido')`.
+8. Realize o Push no Branch `(git push origin lalisaChallenge01 )`.
+9. Abra um Pull Request.
+10. Crie uma nova branch para realizar os demais desafios challenge 02, challenge 03. seguindo todos passos anteriores para cada challeng.
+11. No ultimo challenge 04 faça novamente uma branch e vá para pasta CollaboratorContente e dentro arquivo index copie o trecho de codigo que estará sinalizado alterando para as suas informações de identificação logo após dê o push e abra pull request.
+12. Visite a pagina [HacktoberFest](https://hacktoberfest.com/) e acompanhe o andamento dos seus PRs aceitos.
+13. Visite o site [HacktoberProject 2022](https://hacktoberproject.vercel.app/) verifique se o seu card de colaboração aparece no site.
+14. Agora aguarde a organização do evento avaliar seus PR.
+15. Deixe uma estrela no repositorio do projeto.
+    Atenção: Peço por favor que não modifique a estrutura do projeto.
