@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import './styles.css';
 import { AiFillFire } from 'react-icons/ai';
 export function CollaboratorContent() {
@@ -8,6 +9,7 @@ export function CollaboratorContent() {
           <div className="iconFire">
             <AiFillFire fontSize={35} color={'#04d361'} />
           </div>
+
           <div className="infoColab">
             <h4>Nome: Carolina Cedro</h4>
             <small>
@@ -60,6 +62,7 @@ export function CollaboratorContent() {
             </small>
           </div>
         </div>
+
         <div className="collabContent">
           <div className="iconFire">
             <AiFillFire fontSize={35} color={'#04d361'} />

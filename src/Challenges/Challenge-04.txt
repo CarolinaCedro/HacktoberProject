@@ -1,0 +1,38 @@
+Seja bem vindo ao Challenge 04
+Cards de colobaração no site do projeto
+
+//Não esqueça de criar uma nova branch para o desafio 04
+
+//Trecho a ser Copiado não esqueça de Atualizar suas informações
+
+<div className="collabContent">
+          <div className="iconFire">
+            <AiFillFire fontSize={35} color={'#04d361'} />
+          </div>
+          <div className="infoColab">
+            <h4>Nome: Seu nome</h4>
+            <small>
+              <p>
+                Github: <a href="LINK DO SEU GITHUB">Nome que está no seu github</a>
+              </p>
+            </small>
+            <small>
+              <p>
+                Linkedin :<a href="LINK DO SEU LINKEDIN">Nome que está no seu Linkedin</a>
+              </p>
+            </small>
+          </div>
+</div>
+
+Atenção caso você não tenha muita familiaridade com html na tag a dentro do atributo href você tem que atribuir o link das suas redes sociais.
+
+Exemplo -> <a href="https://www.linkedin.com/in/carol-cedro-37a361208/"/>
+
+1. Copie o trecho sinalizado acima e atualize com as suas informações de identificação.
+2. Vá para a pasta CollaboratorContent e entre no arquivo index.jsx
+3.Cole o codigo abaixo dos cards já existentes
+4.NÃO MODIFIQUE CARDS EXISTENTES. apenas inclua o seu !!!!
+5.Suba push e abra Pull request.
+
+
+Caso você tenha dificuldade em seguir os passos veja o tutorial que está na doc do projeto.
