@@ -106,34 +106,15 @@ export function CollaboratorContent() {
             <AiFillFire fontSize={35} color={'#04d361'} />
           </div>
           <div className="infoColab">
-            <h4>Nome: Nish-ahmd-it</h4>
+            <h4>Nome: yotechGirl</h4>
             <small>
               <p>
-                Github: <a href="#">Nish-ahmd-it</a>
+                Github: <a href="https://github.com/yotechgirl">yotechGirl</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="#">Nish-ahmd-it</a>
-              </p>
-            </small>
-          </div>
-        </div>
-
-        <div className="collabContent">
-          <div className="iconFire">
-            <AiFillFire fontSize={35} color={'#04d361'} />
-          </div>
-          <div className="infoColab">
-            <h4>Nome: Nish-ahmd-it</h4>
-            <small>
-              <p>
-                Github: <a href="#">Nish-ahmd-it</a>
-              </p>
-            </small>
-            <small>
-              <p>
-                Linkedin :<a href="#">Nish-ahmd-it</a>
+                Linkedin :<a href="#">yotechGirl</a>
               </p>
             </small>
           </div>
