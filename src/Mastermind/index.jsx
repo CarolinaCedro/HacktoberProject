@@ -20,13 +20,15 @@ export function Mastermind() {
         <p>_Sinta-se a vontade para contribuir com o projeto.</p>
         <ul>
           <li>
-            <a href="">Participar</a>
+            <a href="https://hacktoberfest.com/">Participar</a>
           </li>
           <li>
-            <a href="">Colaborar com este Projeto</a>
+            <a href="https://github.com/CarolinaCedro/HacktoberProject">
+              Colaborar com este Projeto
+            </a>
           </li>
           <li>
-            <a href="">Conheça-me</a>
+            <a href="https://linktr.ee/CarolinaCedro">Conheça-me</a>
           </li>
         </ul>
       </div>
