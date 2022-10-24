@@ -49,8 +49,7 @@ Faça seu cadastro no evento aqui [HacktoberFest](https://hacktoberfest.com/)
 15. Deixe uma estrela no repositorio do projeto.
     Atenção: Peço por favor que não modifique a estrutura do projeto.
 16. Os PRs passarão por analise e serão aceito
-    17.caso os PRs tenham sido aceitos entre no site [HacktoberFest](https://hacktoberfest.com/) e atualize a pagina para ver se aparece algo como na imagem abaixo
-    ![img.png](img.png)
+    17.caso os PRs tenham sido aceitos entre no site [HacktoberFest](https://hacktoberfest.com/) e atualize a pagina para ver se aparece algo como na imagem abaixo![img.png](img.png)
 
 se estiver os 4 PRs aceitos basta aguardar 7 dias para serem aceitos pelo evento e poderá escolher no site os premios pela participação.
 
