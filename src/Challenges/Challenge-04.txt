@@ -33,6 +33,3 @@ Exemplo -> <a href="https://www.linkedin.com/in/carol-cedro-37a361208/"/>
 3.Cole o codigo abaixo dos cards já existentes
 4.NÃO MODIFIQUE CARDS EXISTENTES. apenas inclua o seu !!!!
 5.Suba push e abra Pull request.
-
-
-Caso você tenha dificuldade em seguir os passos veja o tutorial que está na doc do projeto.

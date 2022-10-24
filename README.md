@@ -19,6 +19,8 @@ vez mais a comunidade open source.
 
 ### Desafios propostos nesse projeto
 
+Faça seu cadastro no evento aqui [HacktoberFest](https://hacktoberfest.com/)
+
 1. Responda as perguntas no arquivo challenge-01.
 2. Responda as perguntas no arquivo challenge-02.
 3. Responda as perguntas no arquivo challenge-03.
