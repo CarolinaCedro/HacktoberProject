@@ -10,15 +10,15 @@ Cards de colobaração no site do projeto
             <AiFillFire fontSize={35} color={'#04d361'} />
           </div>
           <div className="infoColab">
-            <h4>Nome: Seu nome</h4>
+            <h4>Nome: Matheus Vidal</h4>
             <small>
               <p>
-                Github: <a href="LINK DO SEU GITHUB">Nome que está no seu github</a>
+                Github: <a href="https://www.github.com/matheuszvidal">Matheus Vidal</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="LINK DO SEU LINKEDIN">Nome que está no seu Linkedin</a>
+                Linkedin :<a href="https://www.linkedin.com/in/matheus-vidal-dev/">Matheus Vidal</a>
               </p>
             </small>
           </div>

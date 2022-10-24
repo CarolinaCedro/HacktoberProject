@@ -124,6 +124,24 @@ export function CollaboratorContent() {
             </small>
           </div>
         </div>
+        <div className="collabContent">
+          <div className="iconFire">
+            <AiFillFire fontSize={35} color={'#04d361'} />
+          </div>
+          <div className="infoColab">
+            <h4>Nome: Matheus Vidal</h4>
+            <small>
+              <p>
+                Github: <a href="https://www.github.com/matheuszvidal">Matheus Vidal</a>
+              </p>
+            </small>
+            <small>
+              <p>
+                Linkedin :<a href="https://www.linkedin.com/in/matheus-vidal-dev/">Matheus Vidal</a>
+              </p>
+            </small>
+          </div>
+        </div>
       </div>
     </section>
   );
