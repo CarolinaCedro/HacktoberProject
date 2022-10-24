@@ -142,6 +142,29 @@ export function CollaboratorContent() {
             </small>
           </div>
         </div>
+        <div className="collabContent">
+          <div className="iconFire">
+            <AiFillFire fontSize={35} color={'#04d361'} />
+          </div>
+
+          <div className="infoColab">
+            <h4>Nome: Marcelo Silva</h4>
+            <small>
+              <p>
+                Github:{' '}
+                <a href="https://github.com/mhenrique94">mhenrique94</a>
+              </p>
+            </small>
+            <small>
+              <p>
+                Linkedin:{' '}
+                <a href="https://www.linkedin.com/in/marcelohsilva/">
+                MarceloHSilva
+                </a>
+              </p>
+            </small>
+          </div>
+        </div>
       </div>
     </section>
   );

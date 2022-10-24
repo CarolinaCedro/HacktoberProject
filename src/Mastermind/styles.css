@@ -57,3 +57,38 @@
 .masterAbout img{
   padding-right: 0.5rem;
 }
+
+@media (max-width: 600px) {
+  .masterMind{
+    display: block;
+    height: auto;
+    margin: 8% auto;
+    background-color: white;
+  }
+
+  .masterPic{
+    width: 10rem;
+    height: 10rem;
+    float: left;
+    margin: 2%;
+  }
+
+  .masterPic img{
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .masterAbout{
+    width: 100%;
+    font-size: smaller;
+  }
+  .masterAbout ul{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 0;
+    column-gap: 32px;
+    row-gap: 12px;
+    padding: 1.2rem;
+  }
+}
