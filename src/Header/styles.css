@@ -9,3 +9,14 @@ header{
   align-items: center;
   justify-content: center;
 }
+
+@media only screen and (max-width: 600px) {
+  header{
+    height: 4rem;
+    padding: 1% 2%;
+  }
+
+  header h1{
+    text-align: center;
+  }
+}

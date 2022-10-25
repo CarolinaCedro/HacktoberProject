@@ -18,7 +18,7 @@
   border-radius: .7rem;
   padding:0.5rem;
   margin: 1rem;
-  display: flex;  
+  display: flex;
 }
 
 .iconFire{
@@ -32,4 +32,15 @@
 .infoColab a{
   color: #04d361;
   font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+  .collabBox{
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+
+  .collabContent{
+    margin: 0;
+  }
 }
