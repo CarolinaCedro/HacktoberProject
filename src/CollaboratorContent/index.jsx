@@ -132,12 +132,16 @@ export function CollaboratorContent() {
             <h4>Nome: Matheus Vidal</h4>
             <small>
               <p>
-                Github: <a href="https://www.github.com/matheuszvidal">Matheus Vidal</a>
+                Github:{' '}
+                <a href="https://www.github.com/matheuszvidal">Matheus Vidal</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin :<a href="https://www.linkedin.com/in/matheus-vidal-dev/">Matheus Vidal</a>
+                Linkedin :
+                <a href="https://www.linkedin.com/in/matheus-vidal-dev/">
+                  Matheus Vidal
+                </a>
               </p>
             </small>
           </div>
@@ -151,8 +155,7 @@ export function CollaboratorContent() {
             <h4>Nome: Marcelo Silva</h4>
             <small>
               <p>
-                Github:{' '}
-                <a href="https://github.com/mhenrique94">mhenrique94</a>
+                Github: <a href="https://github.com/mhenrique94">mhenrique94</a>
               </p>
             </small>
             <small>
@@ -187,25 +190,30 @@ export function CollaboratorContent() {
               </p>
             </small>
           </div>
+        </div>
 
-          <div className="collabContent">
+        <div className="collabContent">
           <div className="iconFire">
             <AiFillFire fontSize={35} color={'#04d361'} />
           </div>
+
           <div className="infoColab">
-            <h4>Nome: Rayana Prata</h4>
+            <h4>Nome:Rayana Prata</h4>
             <small>
               <p>
-                Github: <a href="https://github.com/rayanaprata">rayanaprata</a>
+                Github:{' '}
+                <a href="https://github.com/rayanaprata">:Rayana Prata</a>
               </p>
             </small>
             <small>
               <p>
-                Linkedin: <a href="https://www.linkedin.com/in/rayanaprata/">Rayana Prata</a>
+                Linkedin:{' '}
+                <a href="https://www.linkedin.com/in/rayanaprata/">
+                  :Rayana Prata
+                </a>
               </p>
             </small>
           </div>
-        </div>
         </div>
       </div>
     </section>
